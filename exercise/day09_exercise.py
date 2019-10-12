@@ -204,7 +204,6 @@ d8 = {}
 
 def input_student(**kwargs):
 	d8.update(kwargs)
-	return d8
 
 def output_student():
 	l8 = d8.keys()
