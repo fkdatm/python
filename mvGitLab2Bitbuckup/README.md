@@ -1,0 +1,1 @@
+这个脚本是用来将 gitlab 上的项目迁移到 bitbucket 上。
